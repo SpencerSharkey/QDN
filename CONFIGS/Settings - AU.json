@@ -1,0 +1,9 @@
+{
+	"Debug": false,
+	"EnableWhitelist": true,
+	"EnableBlacklist": false,
+	"ContinentWhitelist": [
+		"Oceania"
+	],
+	"ContinentBlacklist": []
+}

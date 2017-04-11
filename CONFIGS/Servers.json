@@ -1,0 +1,9 @@
+[
+	{
+		"TargetIP": "0.0.0.0",
+		"TargetPort" : 27015,
+		//(optional) "BindIP": "",
+		"BindPort": 27015,
+		"ShowMaster": true
+	}
+]

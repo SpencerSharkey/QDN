@@ -1,0 +1,12 @@
+[Unit]
+Description=QDN
+
+[Service]
+User=root
+Restart=always
+RestartSec=3
+WorkingDirectory=/root/QDN
+ExecStart=/usr/bin/mono /root/QDN/QDN.exe
+
+[Install]
+WantedBy=multi-user.target

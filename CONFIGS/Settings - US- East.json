@@ -1,0 +1,31 @@
+{
+	"Debug": false,
+
+	"EnableSubdivisionWhitelist": false,
+	"SubdivisionWhitelist": [],
+
+	"EnableSubdivisionBlacklist": true,
+	"SubdivisionBlacklist": [
+		"Alaska",
+		"California",
+		"Nevada",
+		"Oregon",
+		"Arizona",
+		"New Mexico",
+		"Utah",
+		"Idaho",
+		"Hawaii",
+		"Colorado",
+		"Washington",
+	],
+
+	"EnableContinentWhitelist": false,
+	"ContinentWhitelist": [],
+
+  	"EnableContinentBlacklist": true,
+	"ContinentBlacklist": [
+		"Europe",
+		"Oceania",
+		"Asia"
+	]
+}

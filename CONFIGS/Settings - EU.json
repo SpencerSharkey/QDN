@@ -1,0 +1,17 @@
+{
+	"Debug": false,
+
+	"EnableSubdivisionWhitelist": false,
+	"SubdivisionWhitelist": [],
+
+	"EnableSubdivisionBlacklist": false,
+	"SubdivisionBlacklist": [],
+
+	"EnableContinentWhitelist": true,
+	"ContinentWhitelist": [
+		"Europe"
+	],
+
+  	"EnableContinentBlacklist": false,
+	"ContinentBlacklist": []
+}
